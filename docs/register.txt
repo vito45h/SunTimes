@@ -1,0 +1,1 @@
+platformio lib register https://raw.githubusercontent.com/vito45h/SunTimes/master/library.json
