@@ -1,0 +1,26 @@
+{
+    "name": "SunTimes",
+    "description": "Pulls Sunrise and Sunset times based on IP location library",
+    "keywords": "Time, Sunrise, Sunset",
+    "authors": [
+        {
+            "name": "Vito Esposito",
+            "email": "vito45h@gmail.com",
+            "url": "http://www.vitoesposito.com",
+            "maintainer": true
+        },
+        {
+            "name": "Kareem Matariyeh"
+        }
+    ],
+    "repository": {
+        "type": "git",
+         "url": "https://github.com/vito45h/SunTimes"
+    },
+    "version": "1.0",
+    "homepage": "http://playground.arduino.cc/Code/Time",
+    "frameworks": "Arduino",
+    "examples": [
+        "examples/*/*.ino"
+    ]
+}
